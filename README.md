@@ -5,7 +5,8 @@ Here is Xuanyao Jie(接宣尧), currently a master student at the College of Com
 - 2021-2025    : Bachelor of Science in Computer Science and Technology, Hohai University
 - 2025-Present : Master of Computer Technology, Hohai University
 ## 🔍 Research Interests
-
+- Federated Learning : Federated Continual Learning, Personalized Federated Learning
+- Unsupervised Domain Adaptation : Test Time Adaptation for Vision Language Model
 
 <!--
 **xyjie37/xyjie37** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
