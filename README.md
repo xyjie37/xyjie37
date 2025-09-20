@@ -2,8 +2,8 @@
 Here is Xuanyao Jie(接宣尧), currently a master student at the College of Computer Science and Software Engineering.
 
 ## 🧐 Education Background
-- 2021-2025 Bachelor of Science in Computer Science and Technology, Hohai University
-* 2025-Present Master of Computer Technology, Hohai University
+- 2021-2025      Bachelor of Science in Computer Science and Technology, Hohai University
+* 2025-Present   Master of Computer Technology, Hohai University
 
 ## 🔍 Research Interests
 
